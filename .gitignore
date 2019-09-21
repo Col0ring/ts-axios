@@ -1,4 +1,5 @@
 node_modules
+examples
 coverage
 .nyc_output
 .DS_Store
@@ -10,3 +11,4 @@ compiled
 .awcache
 .rpt2_cache
 docs
+
